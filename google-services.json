@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1059861096236",
+    "project_id": "cool-tab-page",
+    "storage_bucket": "cool-tab-page.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059861096236:android:8f2e318626587c96256e89",
+        "android_client_info": {
+          "package_name": "io.github.andrewoxenburgh.cooltabpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059861096236-ibeod3ifclgpbqf967phsmafct8jpmt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDInq6UZZzUxFtS2wIvpRkLlRQ_TsNGWpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059861096236-ibeod3ifclgpbqf967phsmafct8jpmt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
