@@ -7,7 +7,6 @@ export function Logo({ size = 4 }) {
       logo: {
          height: logoSize,
          width: logoSize,
-         backgroundRepeat: 'no-repeat',
       },
    })
 

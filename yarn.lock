@@ -6518,50 +6518,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"barney-coracle@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "barney-coracle@workspace:."
-  dependencies:
-    "@babel/core": ^7.12.9
-    "@babel/preset-env": ^7.16.4
-    "@babel/preset-react": ^7.16.0
-    "@expo/webpack-config": ^0.16.10
-    "@reduxjs/toolkit": ^1.6.2
-    "@storybook/addon-actions": ^6.4.0
-    "@storybook/addon-essentials": ^6.4.0
-    "@storybook/addon-links": ^6.4.0
-    "@storybook/react": ^6.4.0
-    "@storybook/react-native": ^5.3.25
-    "@types/jest": ^27.0.3
-    "@types/react": ~17.0.21
-    "@types/react-native": ~0.64.12
-    "@typescript-eslint/eslint-plugin": ^5.4.0
-    "@typescript-eslint/parser": ^5.4.0
-    babel-jest: ^27.3.1
-    babel-loader: ^8.2.3
-    babel-plugin-react-require: ^3.1.3
-    eslint: ^8.3.0
-    eslint-plugin-react: ^7.27.1
-    eslint-plugin-storybook: ^0.5.1
-    expo: ~43.0.2
-    expo-status-bar: ~1.1.0
-    firebase: ^9.5.0
-    husky: ^7.0.4
-    jest: ^27.3.1
-    pinst: ^2.1.6
-    prettier: 2.5.0
-    ramda: ^0.27.1
-    react: ^17.0.1
-    react-dom: ^17.0.1
-    react-native: ^0.64.3
-    react-native-dotenv: ^3.3.0
-    react-native-web: ^0.17.1
-    react-test-renderer: ^17.0.2
-    redux: ^4.1.2
-    typescript: ~4.3.5
-  languageName: unknown
-  linkType: soft
-
 "base64-js@npm:^1.0.2, base64-js@npm:^1.1.2, base64-js@npm:^1.2.3, base64-js@npm:^1.5.1":
   version: 1.5.1
   resolution: "base64-js@npm:1.5.1"
@@ -7788,6 +7744,50 @@ __metadata:
   checksum: 760384ba0aef329c52523747e36a452b5e51bc49b34160363a6934e7b7df3f93fcc88b35e33450361535d40a92a96412da870e1816aba9aa6cc556a9fedd8492
   languageName: node
   linkType: hard
+
+"cool-tab-page@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "cool-tab-page@workspace:."
+  dependencies:
+    "@babel/core": ^7.12.9
+    "@babel/preset-env": ^7.16.4
+    "@babel/preset-react": ^7.16.0
+    "@expo/webpack-config": ^0.16.10
+    "@reduxjs/toolkit": ^1.6.2
+    "@storybook/addon-actions": ^6.4.0
+    "@storybook/addon-essentials": ^6.4.0
+    "@storybook/addon-links": ^6.4.0
+    "@storybook/react": ^6.4.0
+    "@storybook/react-native": ^5.3.25
+    "@types/jest": ^27.0.3
+    "@types/react": ~17.0.21
+    "@types/react-native": ~0.64.12
+    "@typescript-eslint/eslint-plugin": ^5.4.0
+    "@typescript-eslint/parser": ^5.4.0
+    babel-jest: ^27.3.1
+    babel-loader: ^8.2.3
+    babel-plugin-react-require: ^3.1.3
+    eslint: ^8.3.0
+    eslint-plugin-react: ^7.27.1
+    eslint-plugin-storybook: ^0.5.1
+    expo: ~43.0.2
+    expo-status-bar: ~1.1.0
+    firebase: ^9.5.0
+    husky: ^7.0.4
+    jest: ^27.3.1
+    pinst: ^2.1.6
+    prettier: 2.5.0
+    ramda: ^0.27.1
+    react: ^17.0.1
+    react-dom: ^17.0.1
+    react-native: ^0.64.3
+    react-native-dotenv: ^3.3.0
+    react-native-web: ^0.17.1
+    react-test-renderer: ^17.0.2
+    redux: ^4.1.2
+    typescript: ~4.3.5
+  languageName: unknown
+  linkType: soft
 
 "copy-concurrently@npm:^1.0.0":
   version: 1.0.5

@@ -11,20 +11,20 @@ import { RowComponent } from './components/RowComponent'
 import { BoardComponent } from './components/BoardComponent'
 import { Logo } from './components/Logo'
 
-import { app } from './initFirebase'
-
-console.log('app.name = ' + app.name)
+// import { app } from './initFirebase'
+//
+// console.log('app.name = ' + app.name)
 
 export function Main(): React.ReactElement<View> {
    return (
       <SafeAreaView style={styles.container}>
          <StatusBar
             animated={true}
-            backgroundColor="#61dafb"
+            backgroundColor='#61dafb'
             translucent={true}
             hidden={false}
          />
-         <Text style={styles.button}>Barney Coracle</Text>
+         <Text style={styles.button}>Cool Tab Page</Text>
          <Logo />
          <BoardComponent>
             <RowComponent>

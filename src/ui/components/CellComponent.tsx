@@ -4,7 +4,7 @@ const styles = StyleSheet.create({
    cell: {
       color: 'black',
       fontFamily: 'roman',
-      fontSize: '32px',
+      fontSize: 32,
       fontWeight: 'bold',
       backgroundColor: 'white',
       alignItems: 'center',
