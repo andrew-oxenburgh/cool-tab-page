@@ -20,7 +20,7 @@ export function Main(): React.ReactElement<View> {
       <SafeAreaView style={styles.container}>
          <StatusBar
             animated={true}
-            backgroundColor='#61dafb'
+            backgroundColor="#61dafb"
             translucent={true}
             hidden={false}
          />
