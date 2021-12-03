@@ -11,9 +11,9 @@ import { RowComponent } from './components/RowComponent'
 import { BoardComponent } from './components/BoardComponent'
 import { Logo } from './components/Logo'
 
-// import { app } from './initFirebase'
+import { app } from './initFirebase'
 
-// console.log('app.name = ' + app.name)
+console.log('app.name = ' + app.name)
 
 export function Main(): React.ReactElement<View> {
    return (
@@ -24,8 +24,8 @@ export function Main(): React.ReactElement<View> {
             translucent={true}
             hidden={false}
          />
-         <Text style={styles.button}>Cool Tab Page</Text>
-         {/*<Text>{JSON.stringify(app, null, 4)}</Text>*/}
+         <Text style={styles.button}>Will I Need It?</Text>
+         <Text>{JSON.stringify(app, null, 4)}</Text>
          <Logo />
          <BoardComponent>
             <RowComponent>

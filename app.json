@@ -1,8 +1,8 @@
 {
    "expo": {
-      "scheme": "cooltabpagethingy",
-      "name": "Cool Tab Page",
-      "slug": "cool-tab-page",
+      "scheme": "willineedit",
+      "name": "Will I Need It?",
+      "slug": "will-i-need-it",
       "version": "1.0.0",
       "orientation": "portrait",
       "icon": "./assets/icon.png",
