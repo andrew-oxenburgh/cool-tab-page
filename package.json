@@ -20,7 +20,9 @@
       "prepublishOnly": "pinst --disable",
       "postpublish": "pinst --enable",
       "storybook": "start-storybook -p 6006",
-      "build-storybook": "build-storybook"
+      "build-storybook": "build-storybook",
+      "predeploy": "expo build:web",
+      "deploy-hosting": "npm run predeploy && firebase deploy --only hosting"
    },
    "dependencies": {
       "@reduxjs/toolkit": "^1.6.2",
